@@ -15,6 +15,8 @@ Welcome! Start your gateway to endless jumping fun! This is a delightful and add
 
 Doodle jump off platform automatically when player move it to the edge of the platform. To move use **LEFT\RIGHT keyboard arrow keys**. Doodle is able to take a long fly: press **UP keyboard arrow key**, Doodle will jump in 10 seconds, after that it would take 2 seconds to recharge fly ability.
 
+_Don't stay too long on the platform: after 2 seconds it will disappear, but you still will be able to jump off from it._
+
 There is enemies in the level. Jump on them to kill. If you go to the bottom, left, right side of the enemy - you will die. You also able to kill enemies by shooting at them ammo projectiles. Press **LEFT mouse button** to shoot. Ammo will be aim to the point where cursor when shoot.
 
 If Doodle suddenly go below screen - he will die. If Doodle go thru right border of the screen it appears at the left, and vice versa.
