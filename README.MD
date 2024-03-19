@@ -30,6 +30,4 @@ To close game press **Esc** key.
 
 You will achive points from: distance you pass and platforms you fly.
 
-_Share you points in the comments..._
-
 ![image](about/gifs/doodlejump_gameplay.gif)
